@@ -47,10 +47,6 @@ AWS WAF detected and blocked the attack using the AWS Managed Rules Common Rule 
 
 GuardDuty generated findings which were routed through the alert pipeline.
 
-## Infrastructure as Code
-
-All resources were deployed using Terraform.
-
 ## Screenshots
 
 ### WAF Blocking Malicious Request
