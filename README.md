@@ -11,7 +11,7 @@ The environment was built entirely with Terraform and includes multiple layers o
 ## Architecture
 
 ```
-                Internet
+                 Internet
                     │
                     ▼
                  AWS WAF
