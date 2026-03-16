@@ -27,6 +27,7 @@ EC2 Application Tier (private subnet)
 Private Database Tier
 
 Security Monitoring:
+
 CloudTrail → GuardDuty → EventBridge → SNS Alerts
 
 ## Infrastructure Components
