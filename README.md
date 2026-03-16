@@ -21,13 +21,11 @@ The environment was built entirely with Terraform and includes multiple layers o
                     │
                     ▼
          Auto Scaling EC2 Instances
-           (Private App Subnets)
                     │
                     ▼
                RDS Database
-            (Private DB Subnets)
 
-        Security Monitoring
+            Security Monitoring
   CloudTrail → GuardDuty → EventBridge → SNS
 ```
 
