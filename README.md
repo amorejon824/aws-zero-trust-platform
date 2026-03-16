@@ -1,4 +1,3 @@
-# aws-zero-trust-platform
 # AWS Zero Trust Security Platform (Terraform)
 
 This project demonstrates a security-focused AWS architecture deployed entirely using Terraform.
