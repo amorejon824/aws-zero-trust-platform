@@ -1,19 +1,35 @@
 # AWS Zero Trust Security Platform (Terraform)
+
 ## Project Structure
+
 aws-zero-trust-platform/
+
 │
+
 ├── main.tf
+
 ├── variables.tf
+
 ├── providers.tf
+
 ├── outputs.tf
+
 ├── terraform.tfvars.example
+
 ├── README.md
+
 │
+
 └── screenshots/
+
 ├── waf-block.png
+
 ├── guardduty-findings.png
+
 ├── alb-details.png
+
 ├── vpc-subnets.png
+
 └── terraform-apply.png
 
 ## Overview
