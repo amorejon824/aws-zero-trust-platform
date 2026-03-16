@@ -1,0 +1,4 @@
+aws_region   = "us-east-1"
+project_name = "zero-trust-platform"
+db_password  = "REPLACE_ME"
+alert_email  = "your-email@example.com"
