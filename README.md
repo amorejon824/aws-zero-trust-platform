@@ -14,18 +14,18 @@ The environment was built entirely with Terraform and includes multiple layers o
                 Internet
                     │
                     ▼
-               AWS WAF
+                 AWS WAF
                     │
                     ▼
-       Application Load Balancer
+          Application Load Balancer
                     │
                     ▼
-     Auto Scaling EC2 Instances
-        (Private App Subnets)
+         Auto Scaling EC2 Instances
+           (Private App Subnets)
                     │
                     ▼
-             RDS Database
-          (Private DB Subnets)
+               RDS Database
+            (Private DB Subnets)
 
         Security Monitoring
   CloudTrail → GuardDuty → EventBridge → SNS
