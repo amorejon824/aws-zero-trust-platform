@@ -9,17 +9,17 @@ The environment was built entirely with Terraform and includes multiple layers o
 ## Architecture
 
 Internet
-  
    ↓
-AWS WAF
-   
+
+AWS WAF   
    ↓
+
 Application Load Balancer
-   
    ↓
+
 EC2 Application Tier (private subnet)
-   
    ↓
+
 Private Database Tier
 
 Security Monitoring:
