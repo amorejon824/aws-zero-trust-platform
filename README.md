@@ -1,37 +1,5 @@
 # AWS Zero Trust Security Platform (Terraform)
 
-## Project Structure
-
-aws-zero-trust-platform/
-
-│
-
-├── main.tf
-
-├── variables.tf
-
-├── providers.tf
-
-├── outputs.tf
-
-├── terraform.tfvars.example
-
-├── README.md
-
-│
-
-└── screenshots/
-
-├── waf-block.png
-
-├── guardduty-findings.png
-
-├── alb-details.png
-
-├── vpc-subnets.png
-
-└── terraform-apply.png
-
 ## Overview
 
 This project implements a small zero-trust inspired AWS architecture designed to demonstrate how cloud infrastructure and security services can work together to detect, analyze, and respond to potential threats.
