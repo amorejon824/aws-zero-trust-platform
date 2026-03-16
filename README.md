@@ -1,8 +1,10 @@
 # AWS Zero Trust Security Platform (Terraform)
 
-This project demonstrates a security-focused AWS architecture deployed entirely using Terraform.
+## Overview
 
-The goal was to design an environment where multiple AWS services work together to detect, analyze, and respond to potential threats.
+This project implements a small zero-trust inspired AWS architecture designed to demonstrate how cloud infrastructure and security services can work together to detect, analyze, and respond to potential threats.
+
+The environment was built entirely with Terraform and includes multiple layers of security controls across the network, application, and monitoring layers.
 
 ## Architecture
 
