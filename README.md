@@ -53,7 +53,7 @@ All resources were deployed using Terraform.
 ![GuardDuty](screenshots/guardduty-findings.png)
 
 ### Application Load Balancer
-![ALB](screenshots/alb-running.png)
+![ALB](screenshots/alb-details.png)
 
 ### VPC Subnets
 ![Subnets](screenshots/vpc-subnets.png)
